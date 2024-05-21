@@ -29,5 +29,20 @@ EDA involued exploring the Adidas data to answer key questuins, such as:
 ### Data Visualization (Tableau)
 Data visualization plays a crucial role in transforming dataset into easily understandable visual presentation. with Tableau a very powerful and interesting data visualization tools, I created interactive and compelling dashboard to communicate my insight.
 
-![Dashboard 1 (2)](https://github.com/Peepearl/Adidas-sales-report/assets/99322339/4913face-6310-474a-a3ff-b66cde6bc04c)
+![Dashboard 1 (3)](https://github.com/Peepearl/Adidas-sales-report/assets/99322339/6a15618f-df0a-4b5d-acb6-cb26646eaca1)
+
+### Results/Findings
+The analysis results are summarized as follows:
+1. The company's sales have increased over the years
+2. Product category "Men's street footwear" is highest selling product
+3. In-store sales region have the highest sales by region
+4. Online and women's Athletics footwear should be targetted for marketing efforts
+
+### Recommendations
+Based on the analysis, I recommend the following;
+- Invest in marketing and promotions
+- Focus on expanding and promoting products in online sales method
+- Implement a customer segmentation strategy to target online customers effectively.
+    
+
 
