@@ -2,7 +2,7 @@
 
 
 ### Project Overview
-This Project aims to provide insight analysis of Adidas sales performance and market presence. Utilizing a detailed dataset, the project explores various facets of the business including sales trends, product popularity, regional performance and more.
+The objective of this Project is to analyze the Adidas sales database and identify key insights to help improve sales performance and optimize business strategies. By analyzing sales data, we aim to understand factors influencing sales,aims to provide insight analysis of Adidas sales performance and market presence. Utilizing a detailed dataset, the project explores various facets of the business including sales trends, product popularity, regional performance and more.
 
 ### Data Source
 Adidas Sales: The dataset used for this analysis is "Adidas_US_sales_dataset.xlsx" file, gotten from Kaggle.com, containing detailed information about each sales made by the company.
